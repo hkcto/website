@@ -1,0 +1,7 @@
+body {
+    background-color: #fed136;
+}
+
+.zindex-tooltip {
+    z-index: 1080;
+}
